@@ -39,6 +39,7 @@ setTimeout(() => {
 
     oldcolor(backgroundColors[fg])
 },2000);
+// eslint-disable-next-line react-hooks/exhaustive-deps
     },[newcolor])
  return(
    <>
