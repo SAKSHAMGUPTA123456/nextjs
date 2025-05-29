@@ -1,4 +1,4 @@
-import style from "../styles/index.module.css"
+
 import Image from "next/image"
 import { useEffect } from "react";
 import Link from "next/link";
@@ -28,8 +28,8 @@ const Index=()=>{
 <div style={{width:"450px"}} className="sm:mt-20"> 
   <h1 className="font-bold italic" style={{fontSize:"25px"}}>Give Your Workout</h1>
   <h1 className="font-bold">A New Style!</h1>
-  <h4>Success isn't always about greatness.It's about consistency.Consistent
-hard work gains success.Greatness will come
+  <h4>Success isn&t always about greatness.It&s about consistency.Consistent
+    hard work gains success.Greatness will come
 Explore Now</h4>
 </div>
 <div className="">

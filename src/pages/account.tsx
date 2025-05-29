@@ -32,7 +32,7 @@ const backgroundColors = [
     const router=useRouter()
     useEffect(()=>{
 document.body.style.backgroundColor=newcolor
-let fg=Math.floor(Math.random()*90);
+const fg=Math.floor(Math.random()*90);
 
 setTimeout(() => {
     
